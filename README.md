@@ -1,6 +1,9 @@
 # Password Generator with GUI
 
+The program can be ran as an executable (.exe), to make it possible I used pyinstaller
+
 ## [Download Link](https://www.mediafire.com/file/f3uie8h8xksa5cx/Password_Generator.7z/file)
+
 
 This is a simple password generator with a graphical user interface (GUI) built using Python and the `tkinter` library. The application allows users to specify the length of the password, generate a random password, and copy it to the clipboard.
 
